@@ -184,7 +184,7 @@ label span{
     display: block;
     background-color: #d4e9ff;
     border-radius: 100%;
-    transition: all ease .3s;
+    transition: .3 ease all;
     
 }
 .ativar-dark:checked ~ .dark-mode label{
